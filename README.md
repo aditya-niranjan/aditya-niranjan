@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces 🙂  
 
-<!--- 🌐 My Website - [omaximani.vercel.app](https://omaximani.vercel.app/)-->
+- 🌐 My Website - [aditya-niranjan.vercel.app](https://aditya-niranjan.vercel.app/)
   
 
 <br/>  
