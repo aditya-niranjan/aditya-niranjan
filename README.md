@@ -21,7 +21,7 @@
     <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://greensock.com/gsap/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-gsap-a-javascript-library-for-creating-high-performance-animations-logo-color-tal-revivo.png"/> </a>
     <a href="https://swiperjs.com/" target="_blank"> <img src="https://swiperjs.com/images/swiper-logo.svg" width="48"/> </a>
-    <a href="https://locomotivemtl.github.io/locomotive-scroll/" target="_blank"> <img src="https://img.icons8.com/external-flat-icons-inmotus-design/48/external-train-transport-flat-icons-inmotus-design.png"/> </a>
+    <a href="https://locomotivemtl.github.io/locomotive-scroll/" target="_blank"> <img src="https://tse2.mm.bing.net/th/id/OIP.hNg1wfdn1Z84duIB_NIfIgHaF0?pid=Api&P=0&h=180"/> </a>
     <a href="https://threejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/threejs.png"/> </a>
     <a href="https://lenis.studiofreight.com/" target="_blank"> <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-scroll-arrows-flat-flat-juicy-fish.png"/> </a>
 </p>
