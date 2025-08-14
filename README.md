@@ -5,7 +5,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://greensock.com/gsap/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-gsap-a-javascript-library-for-creating-high-performance-animations-logo-color-tal-revivo.png"/> </a>
+    <a href="https://greensock.com/gsap/" target="_blank"> <img src="https://gsap.com/"/> </a>
 </p>
 
 ### Backend  
