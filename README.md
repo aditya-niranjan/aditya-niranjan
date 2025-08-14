@@ -5,11 +5,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/bootstrap.png"/> </a> 
     <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/react-native.png"/> </a>
-    <a href="https://greensock.com/gsap/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gsap.svg" width="48"/> </a>
-    <a href="https://swiperjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swiper.svg" width="48"/> </a>
-    <a href="https://locomotivemtl.github.io/locomotive-scroll/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scrollreveal.svg" width="48"/> </a>
-    <a href="https://threejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/three-dot-js.svg" width="48"/> </a>
-    <a href="https://lenis.studiofreight.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scrollreveal.svg" width="48"/> </a>
 </p>
 
 ### Backend  
