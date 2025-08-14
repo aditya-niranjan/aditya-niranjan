@@ -1,18 +1,26 @@
-### <div align="center">I'm Aditya, A Full-Stack Developer 👨‍💻</div>  
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h3 align="center">🚀 Full-Stack Developer | Passionate About Modern Web Experiences</h3>
 
-- 🌱 I’m currently learning JavaScript  
-- ❓ Ask me about anything related to HTML & CSS  
-- ⚡ Fun fact: I use tabs over spaces 🙂  
-- 🌐 My Website - [aditya-niranjan.vercel.app](https://adityaniranjan01.vercel.app/)  
+<p align="center">
+  🌱 Currently learning <b>JavaScript</b> <br>
+  ❓ Ask me about anything related to <b>HTML & CSS</b> <br>
+  ⚡ Fun fact: <b>I use tabs over spaces 🙂</b> <br>
+  🌐 <a href="https://adityaniranjan01.vercel.app/" target="_blank">Visit My Website</a>
+</p>
 
-<br/>  
+---
 
 ## 📊 Github Stats
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aditya-niranjan)
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/aditya-niranjan" alt="My Awesome Stats" />
+</p>
 
-## 💻 My Skill Set  
+---
 
-### 🖌️ Frontend  
+## 🖌️ My Skill Set  
+
+### 🎨 Frontend  
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://img.icons8.com/color/48/javascript.png"/>
@@ -39,6 +47,9 @@
     <a href="https://nodejs.org" target="_blank">
         <img src="https://img.icons8.com/color/48/nodejs.png"/>
     </a> 
+    <a href="https://expressjs.com/" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/express-js.png"/>
+    </a>
     <a href="https://www.python.org" target="_blank">
         <img src="https://img.icons8.com/color/48/python.png"/>
     </a> 
@@ -53,15 +64,15 @@
     </a>
 </p>
 
-<br/>  
+---
+
+## 📈 Profile Views
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=aditya-niranjan&style=for-the-badge" alt="Profile views"/>
+</p>
+
+---
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=aditya-niranjan&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">
-Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
+    Generated with ❤️ using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
 </div>
