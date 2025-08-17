@@ -1,78 +1,25 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">🚀 Full-Stack Developer | Passionate About Modern Web Experiences</h3>
+<h1 align="center">Hi 👋, I'm Aditya Niranjan</h1>
+<h3 align="center">A passionate frontend and backend developer from India</h3>
 
-<p align="center">
-  🌱 Currently learning <b>JavaScript</b> <br>
-  ❓ Ask me about anything related to <b>HTML & CSS</b> <br>
-  ⚡ Fun fact: <b>I use tabs over spaces 🙂</b> <br>
-  🌐 <a href="https://adityaniranjan01.vercel.app/" target="_blank">Visit My Website</a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-niranjan&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-niranjan" /> </p>
 
----
+- 🔭 I’m currently working on **System Application**
 
-## 📊 Github Stats
-<p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/aditya-niranjan" alt="My Awesome Stats" />
-</p>
+- 🌱 I’m currently learning **React-js, Exploring Frameworks of it**
 
----
+- 👨‍💻 All of my projects are available at [Currently working on it](Currently working on it)
 
-## 🖌️ My Skill Set  
+- 💬 Ask me about **React, Gsap, Framer-Motion**
 
-### 🎨 Frontend  
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://img.icons8.com/color/48/javascript.png"/>
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://img.icons8.com/color/48/html-5.png"/>
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://img.icons8.com/color/48/css3.png"/>
-    </a> 
-    <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://img.icons8.com/color/48/bootstrap.png"/>
-    </a> 
-    <a href="https://react.dev/" target="_blank">
-        <img src="https://img.icons8.com/color/48/react-native.png"/>
-    </a>
-    <a href="https://greensock.com/gsap/" target="_blank">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-gsap-a-javascript-library-for-creating-high-performance-animations-logo-color-tal-revivo.png"/>
-    </a>
-</p>
+- 📫 How to reach me **adityaniranjan57@gmail.com**
 
-### ⚙️ Backend  
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://nodejs.org" target="_blank">
-        <img src="https://img.icons8.com/color/48/nodejs.png"/>
-    </a> 
-    <a href="https://expressjs.com/" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/express-js.png"/>
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://img.icons8.com/color/48/python.png"/>
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://img.icons8.com/color/48/mongodb.png"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://img.icons8.com/fluent/50/mysql-logo.png"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://img.icons8.com/color/48/git.png"/>
-    </a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## 📈 Profile Views
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=aditya-niranjan&style=for-the-badge" alt="Profile views"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-niranjan&show_icons=true&locale=en&layout=compact" alt="aditya-niranjan" /></p>
 
----
-
-<div align="center">
-    Generated with ❤️ using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-niranjan&show_icons=true&locale=en" alt="aditya-niranjan" /></p>
