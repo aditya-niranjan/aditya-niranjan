@@ -74,21 +74,11 @@ Here you’ll find my projects, experiments, and contributions that reflect my l
 </table>
 </div>
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🌟 Featured Projects
-- 🔗 [**Project 1**](https://github.com/yourusername/project-1) – Short description of what it does.
-- 🔗 [**Project 2**](https://github.com/yourusername/project-2) – Short description of what it does.
+- 🔗 [**Project 1**](https://client-can-project.vercel.app/) – the resone behinde developing this web site is that just tryed to improve the skills and also Redeveloping the web page
+- 🔗 [**Project 2**](https://evo-trek.onrender.com/) – FUll Stack project with good UI/UX that not only show case the Product but also the passion we have About the product!
 - 🔗 [**Project 3**](https://github.com/yourusername/project-3) – Short description of what it does.
 
 ---
