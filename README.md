@@ -11,7 +11,7 @@ Here you’ll find my projects, experiments, and contributions that reflect my l
 - 💡 Love exploring **Interactive Web, Animations, and Modern Frameworks**
 - 🌱 Currently learning **Flask & FastAPI for backend** and **Motion Libraries for frontend**
 - 🤝 Open to collaborating on **innovative open-source projects**
-- 📫 Reach me at: adityaniranjan57@gmail.com | [LinkedIn] | aditya-niranjan57.vercel.app
+- 📫 Reach me at: adityaniranjan57@gmail.com | [LinkedIn] | https://aditya-niranjan57.vercel.app
 
 ---
 ## 🧩 My Skill Set
