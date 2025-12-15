@@ -34,6 +34,9 @@ I'm passionate about **software development, problem-solving, creative frontend 
 <img src="https://skillicons.dev/icons?i=yarn" width="40" style="margin:4px;"/>
 <img src="https://skillicons.dev/icons?i=npm" width="40" style="margin:4px;"/>
 <img src="https://skillicons.dev/icons?i=express" width="40" style="margin:4px;"/>
+ <br>
+ <p>
+familiar</p>
 <img src="https://skillicons.dev/icons?i=fastapi" width="40" style="margin:4px;"/>
 <img src="https://skillicons.dev/icons?i=flask" width="40" style="margin:4px;"/>
 <img src="https://skillicons.dev/icons?i=python" width="40" style="margin:4px;"/>
@@ -44,6 +47,10 @@ I'm passionate about **software development, problem-solving, creative frontend 
 <img src="https://skillicons.dev/icons?i=js" width="40" style="margin:4px;"/>
 <img src="https://skillicons.dev/icons?i=ts" width="40" style="margin:4px;"/>
 <img src="https://skillicons.dev/icons?i=python" width="40" style="margin:4px;"/>
+ <br>
+ <p>Basic's</p>
+ <img src="https://skillicons.dev/icons?i=c" width="45" style="margin:4px;"/>
+ <img src="https://skillicons.dev/icons?i=java" width="45" style="margin:4px;"/>
 </td>
 </tr>
 
@@ -54,6 +61,8 @@ I'm passionate about **software development, problem-solving, creative frontend 
 <img src="https://skillicons.dev/icons?i=nextjs" width="40" style="margin:4px;"/>
 <img src="https://skillicons.dev/icons?i=tailwind" width="40" style="margin:4px;"/>
 <img src="https://skillicons.dev/icons?i=bootstrap" width="40" style="margin:4px;"/>
+<img src="https://skillicons.dev/icons?i=sass" width="45" style="margin:4px;"/>
+<img src="https://skillicons.dev/icons?i=vite" width="45" style="margin:4px;"/>
 </td>
 
 <td align="center">
