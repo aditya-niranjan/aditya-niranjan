@@ -114,7 +114,7 @@ I'm passionate about **software development, problem-solving, creative frontend 
 
 | Project | Description | Live / Repo |
 |--------|-------------|-------------|
-| **Portfolio 1** | Creative UI/UX + motion portfolio | [Live](https://client-can-project.vercel.app/) |
+| **Practice Project** | Creative UI/UX + motion portfolio | [Live](https://client-can-project.vercel.app/) |
 | **Evo-Trek 2** | Full-stack e-commerce | [Live](https://evo-trek.onrender.com/) |
 | **R3F Visual Lab** | 3D experiments | Coming Soon |
 
